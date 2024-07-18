@@ -1,0 +1,20 @@
+GitHub to local server:
+
+	Step1: Copy the link in the GitHub code box.
+	Step2: open the vs code terminal.
+	Step3: Type " git clone ",
+	 after paste the link.
+
+Local server to GitHub:
+
+	[ create a file ]
+	Step1: change the directory to current directory using " cd ${folder_name} "
+	step2: check status by using " git status ". (shows not added)
+	step3: add the file name like " git add test2.txt ". now it's added in status.
+	Step4: Give " git commit -m 'test2.txt file added' "
+	step5: give " git push origin main "
+ 		
+	         		--- refers---
+
+
+			insert--> add--> commit-->push
