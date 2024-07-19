@@ -18,3 +18,6 @@ Local server to GitHub:
 
 
 			insert--> add--> commit-->push
+
+modification:
+	Modification holds a same process as local to GitHub process.
